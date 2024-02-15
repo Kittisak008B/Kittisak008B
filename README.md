@@ -1,5 +1,9 @@
 <h2 align="center">Hi there 👋!</h2>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kittisak008B&style=for-the-badge&color=yellow" alt=""/>
+</div>
+
 ###
 
 <div align="center">
